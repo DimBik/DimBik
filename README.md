@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, MATLAB, C#, MongoDB, Hadoop, Neo4j, Spark
 
 ## Education
-- M.S., Data Science & Analytics	| Munster Technological University (_Nevember 2022_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_July 2020_)
+- MSc. Data Science & Analytics	| Munster Technological University (_Nevember 2022_)	 			        		
+- BSc. Mathematics | The National & Kapodistrian University of Athens (_July 2020_)
 
 ## Work Experience
 **Research Assistant @ University College Cork (_June 2023 - Present_)**
