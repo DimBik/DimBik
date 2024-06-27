@@ -302,7 +302,7 @@ polyg$name_long[polyg$name_long=="United States"]="USA"
 polyg$name_long[polyg$name_long=="United Kingdom"]="UK"
 polyg$name_long[polyg$name_long=='Republic of Korea']="South Korea"
 polyg$name_long[polyg$name_long=='Dem. Rep. Korea']="North Korea"
-polyg$name_long[polyg$name_long=="Côte d'Ivoire"]="Ivory Coast"
+polyg$name_long[polyg$name_long=="CÃ´te d'Ivoire"]="Ivory Coast"
 polygB$name_long[polygB$name_long=="Republic of the Congo"]="Congo"
 polyg$numTwe=NA
 polyg$max=NA
@@ -327,7 +327,7 @@ polygB$name_long[polygB$name_long=="United States"]="USA"
 polygB$name_long[polygB$name_long=="United Kingdom"]="UK"
 polygB$name_long[polygB$name_long=='Republic of Korea']="South Korea"
 polygB$name_long[polygB$name_long=='Dem. Rep. Korea']="North Korea"
-polygB$name_long[polygB$name_long=="Côte d'Ivoire"]="Ivory Coast"
+polygB$name_long[polygB$name_long=="CÃ´te d'Ivoire"]="Ivory Coast"
 polygB$name_long[polygB$name_long=="Republic of the Congo"]="Congo"
 polygB$numTwe=NA
 polygB$max=NA
