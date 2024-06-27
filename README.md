@@ -53,4 +53,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - AI Risks & Risk Management - GSP Seminar, Fall 2021
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, Market Analysis. DOI: 10.26717/BJSTR.2019.20.003446
+1. Castane, G.G., Martinez, A., Radaman, Q., Gkika, Z., Panagiotis, M., Vyhmeister, E. Market Analysis of a Data Platform in the European Data Ecosystem (2024). DOI: 10.1007/978-3-031-63227-3__7
