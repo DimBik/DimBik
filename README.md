@@ -33,9 +33,10 @@ Colorectal, esophageal and stomach cancer causes 1.8 million deaths annualy, and
 - Ulcerative Colitis -> Ulcerative colitis is a chronic inflammatory disease affecting the large bowel.
 - Dyed and Lifted Polyps -> The light blue polyp margins are clearly visible against the darker normal mucosa.
 - Dyed resection Margins -> The resection margins are important in order to evaluate whether the polyp is completely removed or not.
+![EEG Band Discovery](/photos/output.png)
+The models have been evaluated with 5-fold CV. Starting with a baseline model and gradually improve its performance following data augmentation techniques and improve data quality.
+**_Best accuracy: 81.5%_**
 
-The models have been evaluated following 5-fold CV. Starting with a baseline model and gradually improve its accuracy following data augmentation techniques and improve data quality.
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Data Visualisation on Tweets
 [Code](https://www.mdpi.com/1424-8220/22/11/4240)
