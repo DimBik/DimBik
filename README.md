@@ -37,6 +37,7 @@ Colorectal, esophageal and stomach cancer causes 1.8 million deaths annualy, and
 ![8 Classes](/Photos/output.png)
 
 The models have been evaluated with 5-fold CV. Starting with a baseline model and gradually improve its performance following data augmentation techniques and improve data quality.
+
 **_Best accuracy: 81.5%_**
 
 
