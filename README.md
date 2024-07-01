@@ -4,7 +4,7 @@
 
 ## Education
 <div style="display: flex; align-items: center;">
-    <img src="path_to_msc_photo.jpg" alt="MSc Photo" width="50" height="50" style="margin-right: 10px;">
+    <img src="/Photos/MTU_logo.jpg" alt="MSc Photo" width="50" height="50" style="margin-right: 10px;">
     <p>MSc. Data Science & Analytics | Munster Technological University (November 2022)</p>
 </div>
 <div style="display: flex; align-items: center;">
