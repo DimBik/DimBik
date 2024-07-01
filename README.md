@@ -21,7 +21,7 @@
 
 ## Projects
 ### Identify Diseases of the GI tract
-[Code](https://github.com/DimBik/DimBik/blob/main/Projects/Classifying%208%20Different%20types%20of%20cancer%20with%20CNN.ipynb)
+[Code](https://github.com/DimBik/DimBik/blob/main/Projects/Identify%20Diseases%20of%20the%20GI%20Tract.ipynb)
 
 Colorectal, esophageal and stomach cancer causes 1.8 million deaths annualy, and endoscopic examination is highly important for investigation of the GI tract. Gastroscopy and Colonoscopy are real-time video examinations of the GI tract by use of digital high definition endoscopes. Accurate grading of diseases are important since it may influence decision-making on treatment and follow-up. For example, the degree of inflammation directly affects the choice of therapy in inflammatory bowel diseases (IBD). The goal of this project is to build a model which recognises 3 major phatological findings in a real-time video which can lead in cancer and it has been trained on dataset with the 8 following classes:
 
