@@ -23,7 +23,18 @@
 ### Identify Diseases of the GI tract
 [Code](https://github.com/DimBik/DimBik/blob/main/Projects/Classifying%208%20Different%20types%20of%20cancer%20with%20CNN.ipynb)
 
-The goal of this project was blah blah blah blah blah
+Colorectal, esophageal and stomach cancer causes 1.8 million deaths annualy, and endoscopic examination is highly important for investigation of the GI tract. Gastroscopy and Colonoscopy are real-time video examinations of the GI tract by use of digital high definition endoscopes. Accurate grading of diseases are important since it may influence decision-making on treatment and follow-up. For example, the degree of inflammation directly affects the choice of therapy in inflammatory bowel diseases (IBD). The goal of this project is to build a model which recognises 3 major phatological findings in a real-time video which can lead in cancer and it has been trained on dataset with the 8 following classes:
+
+- Z-line -> The Z-line marks the transition site between the esophagus and the stomach.
+- Esophagitis -> Esophagitis is an inflammation of the esophagus visible as a break in the esophageal mucosa in relation to the Z-line.
+- Pylorus -> The pylorus is defined as the area around the opening from the stomach into the first part of the small bowel (duodenum).
+- Polyps -> Polyps are lesions within the bowel detectable as mucosal outgrows.
+- Cecum -> The cecum the most proximal part of the large bowel.
+- Ulcerative Colitis -> Ulcerative colitis is a chronic inflammatory disease affecting the large bowel.
+- Dyed and Lifted Polyps -> The light blue polyp margins are clearly visible against the darker normal mucosa.
+- Dyed resection Margins -> The resection margins are important in order to evaluate whether the polyp is completely removed or not.
+
+The models have been evaluated following 5-fold CV. Starting with a baseline model and gradually improve its accuracy following data augmentation techniques and improve data quality.
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Data Visualisation on Tweets
