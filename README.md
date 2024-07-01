@@ -20,23 +20,23 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Identify Diseases of the GI tract
-[Code](https://github.com/DimBik/DimBik/blob/main/Projects/Identify%20Diseases%20of%20the%20GI%20Tract.ipynb)
+### Enhancing Real-Time GI Tract Pathology Detection
+[Code](https://github.com/DimBik/DimBik/blob/main/Projects/Enhancing%20Real-Time%20GI%20Tract%20Pathology%20Detection.ipynb)
 
-Colorectal, esophageal and stomach cancer causes 1.8 million deaths annualy, and endoscopic examination is highly important for investigation of the GI tract. Gastroscopy and Colonoscopy are real-time video examinations of the GI tract by use of digital high definition endoscopes. Accurate grading of diseases are important since it may influence decision-making on treatment and follow-up. For example, the degree of inflammation directly affects the choice of therapy in inflammatory bowel diseases (IBD). The goal of this project is to build a model which recognises 3 major phatological findings in a real-time video which can lead in cancer and it has been trained on dataset with the 8 following classes:
+Colorectal, esophageal and stomach cancers cause 1.8 million deaths each year, making endoscopic examination crucial for examining the GI tract. Gastroscopy and Colonoscopy are real-time video examinations using high-definition degital endoscopes to inspect the GI tract. Accurate disease assessment is important as it affects treatment and follow-up decisions. For example, the level of inflammation determines the therapy for inflammatory bowel diseases (IBD). This project aims to create a reliable model which recognises 3 major pathological findings in real-time video. The dataset consists of the 8 following classes:
 
-- Z-line -> The Z-line marks the transition site between the esophagus and the stomach.
-- Esophagitis -> Esophagitis is an inflammation of the esophagus visible as a break in the esophageal mucosa in relation to the Z-line.
-- Pylorus -> The pylorus is defined as the area around the opening from the stomach into the first part of the small bowel (duodenum).
-- Polyps -> Polyps are lesions within the bowel detectable as mucosal outgrows.
-- Cecum -> The cecum the most proximal part of the large bowel.
-- Ulcerative Colitis -> Ulcerative colitis is a chronic inflammatory disease affecting the large bowel.
-- Dyed and Lifted Polyps -> The light blue polyp margins are clearly visible against the darker normal mucosa.
-- Dyed resection Margins -> The resection margins are important in order to evaluate whether the polyp is completely removed or not.
+- Z-line -> Marks the transition between the esophagus and the stomach.
+- Esophagitis -> Inflammation of the esophagus visible as a break in the esophageal mucosa near the Z-line.
+- Pylorus -> The area around the opening from the stomach into the first part of the small bowel (duodenum).
+- Polyps -> Lesions within the bowel detectable as mucosal outgrows.
+- Cecum -> The most proximal part of the large bowel.
+- Ulcerative Colitis -> A chronic inflammatory disease affecting the large bowel.
+- Dyed and Lifted Polyps -> Light blue polyp margins are clearly visible against the darker normal mucosa.
+- Dyed resection Margins -> The resection margins are important in order to evaluate whether the polyp is completely removed.
 
 ![8 Classes](/Photos/output.png)
 
-The models have been evaluated with 5-fold CV. Starting with a baseline model and gradually improve its performance following data augmentation techniques and improve data quality.
+The models were evaluated with 5-fold CV. An initial baseline model with an accuracy of 72.5% was built and gradually improved to reach 81.5%. In this project, issues such as bias from the green squares and limited data were addressed.
 
 **_Best accuracy: 81.5%_**
 
