@@ -3,14 +3,10 @@
 #### Technical Skills: Python, SQL, R, MATLAB, C#, MongoDB, Hadoop, Neo4j, Spark
 
 ## Education
-<div style="display: flex; align-items: center;">
-    <img src="/Photos/MTU_logo.jpg" alt="MSc Photo" width="50" height="50" style="margin-right: 10px;">
-    <p>MSc. Data Science & Analytics | Munster Technological University (November 2022)</p>
-</div>
-<div style="display: flex; align-items: center;">
-    <img src="/Photos/ekpa-logo-300x300.png" alt="BSc Photo" width="50" height="50" style="margin-right: 10px;">
-    <p>BSc. Mathematics | The National & Kapodistrian University of Athens (July 2020)</p>
-</div>
+
+MSc. Data Science & Analytics | Munster Technological University (November 2022)
+BSc. Mathematics | The National & Kapodistrian University of Athens (July 2020)
+
 
 ## Work Experience
 **Research Assistant @ University College Cork (_June 2023 - Present_)**
