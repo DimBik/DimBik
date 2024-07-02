@@ -5,6 +5,7 @@
 ## Education
 
 MSc. Data Science & Analytics | Munster Technological University (November 2022)
+
 BSc. Mathematics | The National & Kapodistrian University of Athens (July 2020)
 
 
