@@ -26,7 +26,7 @@ BSc. Mathematics | The National & Kapodistrian University of Athens (July 2020)
 ### <ins>Enhancing Real-Time GI Tract Pathology Detection</ins>
 [Code](https://github.com/DimBik/DimBik/blob/main/Projects/Enhancing%20Real-Time%20GI%20Tract%20Pathology%20Detection.ipynb)
 
-Colorectal, esophageal and stomach cancers cause 1.8 million deaths each year, making endoscopic examination crucial for examining the GI tract. Gastroscopy and Colonoscopy are real-time video examinations using high-definition degital endoscopes to inspect the GI tract. Accurate disease assessment is important as it affects treatment and follow-up decisions. For example, the level of inflammation determines the therapy for inflammatory bowel diseases (IBD). This project aims to create a reliable model which recognises 3 major pathological findings in real-time video. The dataset consists of the 8 following classes:
+Colorectal, esophageal and stomach cancers cause 1.8 million deaths each year, making endoscopic examination crucial for examining the GI tract. Gastroscopy and Colonoscopy are real-time video examinations using high-definition digital endoscopes to inspect the GI tract. Accurate disease assessment is important as it affects treatment and follow-up decisions. For example, the level of inflammation determines the therapy for inflammatory bowel diseases (IBD). This project aims to create a reliable model which recognises 3 major pathological findings in real-time video. The dataset consists of the 8 following classes:
 
 - Z-line -> Marks the transition between the esophagus and the stomach.
 - Esophagitis -> Inflammation of the esophagus visible as a break in the esophageal mucosa near the Z-line.
@@ -47,7 +47,7 @@ The models were evaluated with 5-fold CV. An initial baseline model with an accu
 ### <ins>Visualising Tweets</ins>
 [Code](https://github.com/DimBik/DimBik/blob/main/Projects/Visualising%20Tweets.ipynb)
 
-In this project, I developed a Shiny Application with R to perform data analysis on tweets. The dataset includes multiple attributes such as:
+In this project, I developed a Shiny Application in R designed to perform data analysis on tweets. The dataset includes multiple attributes such as:
 - Time -> Showing the datetime that the tweet was published.
 - Reach -> Measuring the visibility of each tweet.
 - Number of Retweets -> Showing the number of retweets.
@@ -60,11 +60,11 @@ The app is structured into four interactive tabs, each of them, serving a differ
 
 **_Tab 1: Tweet Location Map_**
 
-For the first tab, the longitude and latitude has been retreived from a local dataset of R and merged with our dataset. The coordinates of some cities have been initialised manually from Google Maps. All the tweets from a city X have the same coordinates and therefore a random number has been added to the longitude and latitude to avoid duplicated points on the map and distribute them around the city X. Below we see the first tab.
+For the first tab, the longitude and latitude were retreived from a local dataset of R and merged with the tweets dataset. The coordinates of some cities were manually initialised from Google Maps. All the tweets coming from a city X have the same coordinates, and therefore a random number was added to the longitude and latitude to avoid duplicated points on the map and distribute them around a city X. Below, the first tab is shown.
 
 ![tab1](/Photos/tab1.png)
 
-By clicking on a marker, users can access detailed information about the tweet and the user, including gender, Klout score, sentiment score, and other relevant metrics. Additionally, this map is highly interactive, and users can filter the data based on the gender.
+By clicking on a marker, users can access detailed information about a tweet and a user, including gender, Klout score, sentiment score, and other relevant metrics. Additionally, this map is highly interactive, and users can filter the data based on the gender.
 
 **_Tab 2: Country Statistics Map_**
 
@@ -80,7 +80,7 @@ The third tab is dedicated to multivariate analysis with scatter plots. The user
 
 **_Tab 4: Time Series_**
 
-The fourth tab focuses more on time series analysis displaying different time series plots for each variable. Users can analyse how the number of tweets changes with the time and the day (More tweets on the weekends). They can also analyse the trend, the seasonality and more in the other variables as well. This tab provides a flexible tool for analysing how the users' engangement fluctuates over different periods. The last tab is shown below. 
+The fourth tab focuses more on time series analysis displaying different time series plots for each variable. Users can analyse how the number of tweets changes with the day (More tweets on the weekends). They can also analyse the trend, the seasonality and more. This tab provides a flexible tool for analysing how the users' engangement fluctuates over different periods. The last tab is shown below. 
 
 ![tab4](/Photos/tab4.png)
 
