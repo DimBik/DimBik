@@ -23,7 +23,7 @@ BSc. Mathematics | The National & Kapodistrian University of Athens (July 2020)
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Enhancing Real-Time GI Tract Pathology Detection
+### <ins>Enhancing Real-Time GI Tract Pathology Detection</ins>
 [Code](https://github.com/DimBik/DimBik/blob/main/Projects/Enhancing%20Real-Time%20GI%20Tract%20Pathology%20Detection.ipynb)
 
 Colorectal, esophageal and stomach cancers cause 1.8 million deaths each year, making endoscopic examination crucial for examining the GI tract. Gastroscopy and Colonoscopy are real-time video examinations using high-definition degital endoscopes to inspect the GI tract. Accurate disease assessment is important as it affects treatment and follow-up decisions. For example, the level of inflammation determines the therapy for inflammatory bowel diseases (IBD). This project aims to create a reliable model which recognises 3 major pathological findings in real-time video. The dataset consists of the 8 following classes:
@@ -85,17 +85,17 @@ The fourth tab focuses more on time series analysis displaying different time se
 ![tab4](/Photos/tab4.png)
 
 
-### Classification of real and fake facial images
+### <ins>Classification of real and fake facial images</ins>
 [Code](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-### Identify LLM-generated text
+### <ins>Identify LLM-generated text</ins>
 [Code](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-### Quality analysis of a drug and failure detection
+### <ins>Quality analysis of a drug and failure detection</ins>
 [Code](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
