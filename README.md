@@ -11,16 +11,16 @@ BSc. Mathematics | The National & Kapodistrian University of Athens (July 2020)
 
 ## Work Experience
 **Research Assistant @ University College Cork (_June 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Develop a Naive Bayes classifier, mitigating bias related to fairness, improving decision-making. KPIs: Demographic Parity = 0, Accuracy = 86% 
+- Develop an ensemble model classifier for students' performance forecasting, employing data cleaning pipelines to address inconcistencies and improve data quality in a large dataset. KPI: Accuracy = 91%.
+- Design pre- and post-assessment questionnaires to evaluate a course according to European project's needs. Gather data and conduct data analysis to address potential imporvements of the course. 
 
 **Annotation Analyst @ Apple (_January 2023 - June 2023_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Complete more than 1000 daily tasks, improving the overall performance of the team to become one of the top 5 most productive teams within Apple.
+- Collaborate within a 6-member team to address ambiguities in the data.
 
 **Mathematics Teacher @ Eumathia Private Tutoring School (_September 2014 - June 2021_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Deliver more than 7 effective presentations per day to convey complex mathematical concepts and bridge knowledge gaps, enhancing my ability to clearly communicate complex concepts to a non-technical audience.
 
 ## Projects
 ### <ins>Enhancing Real-Time GI Tract Pathology Detection</ins>
@@ -47,7 +47,7 @@ The models were evaluated with 5-fold CV. An initial baseline model with an accu
 ### <ins>Visualising Tweets</ins>
 [Code](https://github.com/DimBik/DimBik/blob/main/Projects/Visualising%20Tweets.ipynb)
 
-In this project, I developed a Shiny Application with R to perform data analysis on tweets. The dataset includes multiple attributes sich as:
+In this project, I developed a Shiny Application with R to perform data analysis on tweets. The dataset includes multiple attributes such as:
 - Time -> Showing the datetime that the tweet was published.
 - Reach -> Measuring the visibility of each tweet.
 - Number of Retweets -> Showing the number of retweets.
