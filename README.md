@@ -11,7 +11,7 @@ BSc. Mathematics | The National & Kapodistrian University of Athens (July 2020)
 
 ## Work Experience
 **Research Assistant @ University College Cork (_June 2023 - Present_)**
-- Develop a Naive Bayes classifier, mitigating bias related to fairness, improving decision-making. KPIs: Demographic Parity = 0, Accuracy = 86% 
+- Develop a Naive Bayes classifier, mitigating bias related to fairness, improving decision-making. KPIs: Demographic Parity = 0, Accuracy = 86%.
 - Develop an ensemble model classifier for students' performance forecasting, employing data cleaning pipelines to address inconcistencies and improve data quality in a large dataset. KPI: Accuracy = 91%.
 - Design pre- and post-assessment questionnaires to evaluate a course according to European project's needs. Gather data and conduct data analysis to address potential imporvements of the course. 
 
