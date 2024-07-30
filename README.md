@@ -45,9 +45,41 @@ The models were evaluated with 5-fold CV. An initial baseline model with an accu
 
 
 ### Data Visualisation on Tweets
-[Code](https://www.mdpi.com/1424-8220/22/11/4240)
+[Code](https://github.com/DimBik/DimBik/blob/main/Projects/Visualising%20Tweets.ipynb)
 
-blah blah blah blah blah blah blah blah
+In this project, I developed a Shiny Application with R to perform data analysis on tweets. The dataset includes multiple attributes sich as:
+- Time -> Showing the datetime that the tweet was published.
+- Reach -> Measuring the visibility of each tweet.
+- Number of Retweets -> Showing the number of retweets.
+- Likes -> Describing the number of likes of each tweet.
+- Klout -> The Klout Score which describes the influence of each tweet.
+- Location -> The location of the tweet: City, Country.
+- Gender -> Showing the gender of the user.
+
+The app is structured into four interactive tabs, each of them, serving a different purpose in exploring and analysing the dataset.
+
+**_Tab 1: Tweet Location Map_**
+For the first tab, the longitude and latitude has been retreived from a local dataset of R and merged with our dataset. The coordinates of some cities have been initialised manually from Google Maps. All the tweets from a city X have the same coordinates and therefore a random number has been added to the longitude and latitude to avoid duplicated points on the map and distribute them around the city X. Below we see the first tab.
+
+![tab1](/Photos/tab1.png)
+
+By clicking on a marker, users can access detailed information about the tweet and the user, including gender, Klout score, sentiment score, and other relevant metrics. Additionally, this map is highly interactive, and users can filter the data based on the gender.
+
+**_Tab 2: Country Statistics Map_**
+The second tab presents a high-level overview with a polygon map displaying aggregated statistics for each country. Users can click on a specific country to see average sentiment score, average reach score, and other relevant statistics such as minimum, maximum and median. This feature helps indentify local trends and patterns in tweets. The second tab is shown below.
+
+![tab2](/Photos/tab2.png)
+
+**_Tab 3: Multivariate Analysis_**
+The third tab is dedicated to multivariate analysis with scatter plots. The user can select different combination of variables and explore relationships between them. The radius of each point on the scatter plot varies according to the value of the selected variable (ie. Likes) and the colour of each point shows the sentiment score. The user can also apply different transformations on the data. This tab provides a useful tool for in-depth data analysis and the tab is shown below.
+
+![tab3](/Photos/tab3.png)
+
+**_Tab 4: Time Series_**
+The fourth tab focuses more on time series analysis displaying different time series plots for each variable. Users can analyse how the number of tweets changes with the time and the day (More tweets on the weekends). They can also analyse the trend, the seasonality and more in the other variables as well. This tab provides a flexible tool for analysing how the users' engangement fluctuates over different periods. The last tab is shown below. 
+
+![tab4](/Photos/tab4.png)
+
 
 ### Classification of real and fake facial images
 [Code](https://www.mdpi.com/1424-8220/22/11/4240)
