@@ -67,6 +67,7 @@ For the first tab, the longitude and latitude has been retreived from a local da
 By clicking on a marker, users can access detailed information about the tweet and the user, including gender, Klout score, sentiment score, and other relevant metrics. Additionally, this map is highly interactive, and users can filter the data based on the gender.
 
 **_Tab 2: Country Statistics Map_**
+
 The second tab presents a high-level overview with a polygon map displaying aggregated statistics for each country. Users can click on a specific country to see average sentiment score, average reach score, and other relevant statistics such as minimum, maximum and median. This feature helps indentify local trends and patterns in tweets. The second tab is shown below.
 
 ![tab2](/Photos/tab2.png)
