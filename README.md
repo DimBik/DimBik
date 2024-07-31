@@ -96,7 +96,7 @@ When a new account is created, banks face the risk of fraud unless regulations a
 
 ![imbalance](/Photos/imb_mean.png)
 
-ConvNeXts have demonstrated excellent performance in image classification tasks, and for this research, they will be included in a voting classifier and trained on an imbalanced dataset of facial images. An imbalanced dataset is used to reflect real-world conditions. The voting classifier, composed of four ConvNeXt models and an ensemble model, successfully classified 91.67% of the fake images.
+ConvNeXts have demonstrated excellent performance in image classification tasks, and for this research, they will be included in a voting classifier and trained on an imbalanced dataset of facial images. An imbalanced dataset is used to reflect real-world conditions. The voting classifier, composed of four ConvNeXt models and an ensemble model, successfully classified **_91.67%_** of the fake images.
 
 ### <ins>Identify LLM-generated text</ins>
 [Code](https://www.mdpi.com/1424-8220/22/11/4240)
