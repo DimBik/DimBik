@@ -86,7 +86,7 @@ The fourth tab focuses more on time series analysis displaying different time se
 
 
 ### <ins>Classification of real and fake facial images</ins>
-[Code](https://www.mdpi.com/1424-8220/22/11/4240)
+[Thesis/Code](https://github.com/DimBik/DimBik/blob/main/Projects/Classification%20of%20real%20and%20fake%20facial%20images.pdf)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
