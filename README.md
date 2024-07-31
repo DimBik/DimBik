@@ -90,7 +90,11 @@ The fourth tab focuses more on time series analysis displaying different time se
 
 Banks are being targeted by fraudsters, leading to a remarkably high annual financial loss. Detecting these fraudsters is the most important goal for banks, as it ensures reliability and security. Over the last 10 years, machine learning and deep learning have performed immensely well in various fields. Big data is now easily handled by stronger hardware systems compared to the past, making more information available for tackling problems that humans cannot. The influence of technology has created a world that allows several processes to be performed efficiently remotely.
 
+![data](/Photos/facial.png)
+
 When a new account is created, banks face the risk of fraud unless regulations are satisfied. Some of the required documents for opening a new account include a photograph of the customer's ID card and an image displaying their face. The documents submitted by the prospective customer are checked by the bank and either accepted or rejected. Fraudsters often submit fake ID cards or photoshopped images to conceal their identity. In this research, the study of photoshopped images to identify potential frauds will be proposed.
+
+![imbalance](/Photos/imb_mean.png)
 
 ConvNeXts have demonstrated excellent performance in image classification tasks, and for this research, they will be included in a voting classifier and trained on an imbalanced dataset of facial images. An imbalanced dataset is used to reflect real-world conditions. The voting classifier, composed of four ConvNeXt models and an ensemble model, successfully classified 91.67% of the fake images.
 
