@@ -88,7 +88,11 @@ The fourth tab focuses more on time series analysis displaying different time se
 ### <ins>Classification of real and fake facial images</ins>
 [Thesis/Code](https://github.com/DimBik/DimBik/blob/main/Projects/Classification%20of%20real%20and%20fake%20facial%20images.pdf)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Banks are being targeted by fraudsters, leading to a remarkably high annual financial loss. Detecting these fraudsters is the most important goal for banks, as it ensures reliability and security. Over the last 10 years, machine learning and deep learning have performed immensely well in various fields. Big data is now easily handled by stronger hardware systems compared to the past, making more information available for tackling problems that humans cannot. The influence of technology has created a world that allows several processes to be performed efficiently remotely.
+
+When a new account is created, banks face the risk of fraud unless regulations are satisfied. Some of the required documents for opening a new account include a photograph of the customer's ID card and an image displaying their face. The documents submitted by the prospective customer are checked by the bank and either accepted or rejected. Fraudsters often submit fake ID cards or photoshopped images to conceal their identity. In this research, the study of photoshopped images to identify potential frauds will be proposed.
+
+ConvNeXts have demonstrated excellent performance in image classification tasks, and for this research, they will be included in a voting classifier and trained on an imbalanced dataset of facial images. An imbalanced dataset is used to reflect real-world conditions. The voting classifier, composed of four ConvNeXt models and an ensemble model, successfully classified 91.67% of the fake images.
 
 ### <ins>Identify LLM-generated text</ins>
 [Code](https://www.mdpi.com/1424-8220/22/11/4240)
