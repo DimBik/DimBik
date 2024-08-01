@@ -101,7 +101,14 @@ ConvNeXts have demonstrated excellent performance in image classification tasks,
 ### <ins>Identify LLM-generated text</ins>
 [Code](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+In the era of chatbots, AI-generated text is becoming increasingly sophisticated, distinguishing between human and LLM-generated content has become challenging. In educational perspective, academic integrity ensures that students work on their own, and therefore, in this project, I developed a machine learning model capable of identifying whether an essay is written by a human or LLM.
+
+The initial dataset was limited to LLM-generated essays, therefore AI-generated essays were added and data augmentation was performed. Data cleaning pipelines were implemented to enhance data quality, including deletion of special characters, numbers and punctuations, and stemming. TF-IDF vectoriser was used, and preliminary external analysis showed that LLM uses shorter texts than human. Therefore and attribute which keeps tracking the number of words was included on the dataset. Lastly, unique words analysis for each class was conducted which shows the difference between human creativity and machine generation.
+
+The model should confidently indentify whether the essay is written by a human or not, and therefore the KPI to assess the model's performance is **_AUC_**.
+
+**_Best AUC score = 0.8149_** 
+
 
 ### <ins>Quality analysis of a drug and failure detection</ins>
 [Code](https://www.mdpi.com/1424-8220/22/11/4240)
