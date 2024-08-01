@@ -99,7 +99,7 @@ When a new account is created, banks face the risk of fraud unless regulations a
 ConvNeXts have demonstrated excellent performance in image classification tasks, and for this research, they will be included in a voting classifier and trained on an imbalanced dataset of facial images. An imbalanced dataset is used to reflect real-world conditions. The voting classifier, composed of four ConvNeXt models and an ensemble model, successfully classified **_91.67%_** of the fake images.
 
 ### <ins>Identify LLM-generated text</ins>
-[Code](https://www.mdpi.com/1424-8220/22/11/4240)
+[Code](https://github.com/DimBik/DimBik/blob/main/Projects/Identify%20LLM%20generated%20text.ipynb)
 
 In the era of chatbots, AI-generated text is becoming increasingly sophisticated, distinguishing between human and LLM-generated content has become challenging. In educational perspective, academic integrity ensures that students work on their own, and therefore, in this project, I developed a machine learning model capable of identifying whether an essay is written by a human or LLM.
 
