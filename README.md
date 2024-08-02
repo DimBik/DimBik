@@ -109,14 +109,6 @@ The model should confidently indentify whether the essay is written by a human o
 
 **_Best AUC score = 0.8149_** 
 
-
-### <ins>Quality analysis of a drug and failure detection</ins>
-[Code](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
 ## Talks & Lectures
 - AI Risks & Risk Management - Multiplier event for the REGULAITE project, Arcos de Valdevez, Portugal, February 2024
 - Analysis of feedback from pilot test's questionnaires - Multiplier event for the REGULAITE project, Arcos de Valdevez, Portugal, February 2024
