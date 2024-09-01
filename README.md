@@ -15,7 +15,7 @@ BSc. Mathematics | The National & Kapodistrian University of Athens (July 2020)
 - Employed a data cleaning pipeline with Python to handle inconsistencies in a large dataset, improving accuracy for student performance predictions by 7\%.
 - Collaborated with cross-functional teams to design questionnaires for a European project course and perform data analysis with Python, leading to a 1-point improvement in the course's effectiveness rating after implementing identified changes.
 - Conducted data analysis with Excel on European data portals to identify the best fit for a European project's platform. Developed the back-end of a Python Flask API to translate and publish metadata to the selected portal.
-- 
+
 **Annotation Analyst @ Apple (_January 2023 - June 2023_)**
 - Complete more than 1000 daily tasks, improving the overall performance of the team to become one of the top 5 most productive teams within Apple.
 - Collaborate within a 6-member team to address ambiguities in the data.
