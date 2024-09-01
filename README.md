@@ -42,6 +42,8 @@ Colorectal, esophageal and stomach cancers cause 1.8 million deaths each year, m
 
 The models were evaluated with 5-fold CV. An initial baseline model with an accuracy of 72.5% was built and gradually improved to reach 81.5%. In this project, issues such as bias from the green squares and limited data were addressed.
 
+![Confusion Matrix](/Photos/conf_mat.png)
+
 **_Best accuracy: 81.5%_**
 
 
@@ -56,8 +58,6 @@ In this project, I developed a Shiny Application in R designed to perform data a
 - Klout -> The Klout Score which describes the influence of each tweet.
 - Location -> The location of the tweet: City, Country.
 - Gender -> Showing the gender of the user.
-
-![Confusion Matrix](/Photos/conf_mat.png)
 
 The app is structured into four interactive tabs, each of them, serving a different purpose in exploring and analysing the dataset.
 
