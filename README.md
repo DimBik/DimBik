@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, MATLAB, C#, MongoDB, Hadoop, Neo4j, Spark
+#### Technical Skills: Python, SQL, R, JavaScript, HTML, CSS, MATLAB, C#, MongoDB, Hadoop, Neo4j, Spark
 
 ## Education
 
@@ -72,20 +72,9 @@ The fourth tab focuses more on time series analysis displaying different time se
 
 ![tab4](/Photos/tab4.png)
 
-### <ins>Identify LLM-generated text</ins>
-[Code](https://github.com/DimBik/DimBik/blob/main/Projects/Identify%20LLM%20generated%20text.ipynb)
-
-In the era of chatbots, AI-generated text is becoming increasingly sophisticated, distinguishing between human and LLM-generated content has become challenging. In educational perspective, academic integrity ensures that students work on their own. Therefore, in this project, I developed a machine learning model capable of identifying whether an essay is written by a human or LLM.
-
-The initial dataset was limited to LLM-generated text, therefore AI-generated essays were added and data augmentation was performed. Data cleaning pipelines were implemented to enhance data quality, including stemming and deletion of special characters, numbers, punctuations and stop words. TF-IDF vectoriser was used, and preliminary external analysis showed that LLM uses shorter text than humans. Therefore an attribute which keeps tracking the number of words was included on the dataset. Lastly, unique words analysis for each class was conducted which shows the difference between human creativity and machine generation.
-
-The model should confidently indentify whether the essay is written by a human or not, and therefore the KPI to assess the model's performance is **_AUC_**.
-
-**_Best AUC score = 0.8149_** 
-
 ## Talks & Lectures
 - AI Risks & Risk Management - Multiplier event for the REGULAITE project, Arcos de Valdevez, Portugal, February 2024
 - Analysis of feedback from pilot test's questionnaires - Multiplier event for the REGULAITE project, Arcos de Valdevez, Portugal, February 2024
 
-## Publications
-1. Castane, G.G., Martinez, A., Radaman, Q., Gkika, Z., Panagiotis, M., Vyhmeister, E. Market Analysis of a Data Platform in the European Data Ecosystem (2024). DOI: 10.1007/978-3-031-63227-3__7
+## Certification
+AI-Powered Production Scheduling with Constraint Programming - University College Cork (UCC)
