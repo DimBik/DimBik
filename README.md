@@ -32,7 +32,7 @@ The models were evaluated with 5-fold CV. An initial baseline model with an accu
 **_Best accuracy: 81.5%_**
 
 
-### <ins>Visualising Tweets</ins>
+### <ins>Data Analysis on Tweets</ins>
 [Code](https://github.com/DimBik/DimBik/blob/main/Projects/Visualising%20Tweets.ipynb)
 
 In this project, I developed a Shiny Application in R designed to perform data analysis on tweets. The dataset includes multiple attributes such as:
